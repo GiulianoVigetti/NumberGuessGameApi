@@ -1,0 +1,6 @@
+@NumberGuessGameApi_HostAddress = http://localhost:5261
+
+GET {{NumberGuessGameApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
